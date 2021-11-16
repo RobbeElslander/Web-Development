@@ -1,0 +1,35 @@
+html {
+    max-width: 1400px;
+    margin: auto;
+    background-image: url("achtergrondfoto.jpg");
+    color: white;
+}
+
+.header_text{
+    font-size: 50px;
+    margin: 5px;
+}
+
+article {
+    background-color: #505050;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+header img {
+    width: 100%;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+nav {
+    background-color: black;
+    padding: 5px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}

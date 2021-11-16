@@ -1,0 +1,92 @@
+.datagrid table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+
+.datagrid {
+    font: normal 12px/150% Georgia, Times New Roman, Times, serif;
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #000000;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.datagrid table td, .datagrid table th {
+    padding: 3px 10px;
+}
+
+.datagrid table thead th {
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #FF1212), color-stop(1, #7F1313) );
+    background:-moz-linear-gradient( center top, #FF1212 5%, #7F1313 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF1212', endColorstr='#7F1313');
+    background-color:#FF1212;
+    color:#FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    border-left: 1px solid #000000;
+}
+
+.datagrid table thead th:first-child {
+    border: none;
+}
+
+.datagrid table tbody td {
+    color: #000000;
+    border-left: 1px solid #000000;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.datagrid table tbody .alt td {
+    background: #FFC4C4;
+    color: #0D0808;
+}
+
+.datagrid table tbody td:first-child {
+    border-left: none;
+}
+
+.datagrid table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.onbekend {
+    color: darkred;
+    background-color: darkred;
+    !important;
+}
+
+td {
+    border: 1px dotted black;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+td:last-child, td:first-child{
+    background-color: rgb(255, 220, 220);
+}
+
+.dag td{
+    background-color: rgb(35,37,70);
+    color: rgb(200,190,240);
+}
+
+th{
+    background-color: rgb(170,170,200);
+}
+
+.vrijeDag {
+    background-color: rgb(250,120,120);
+}
+
+.vorigeMaand{
+    background-color: #EEEEEE !important;
+    color: #AAAAAA;
+}
+
