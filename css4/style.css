@@ -1,0 +1,12 @@
+.kleinesectie {
+
+    padding: 10px;
+    border: solid 1px;
+}
+
+.bigsection {
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 50%
+}
