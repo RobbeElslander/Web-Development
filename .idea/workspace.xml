@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css6" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -41,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\css6" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\css5" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development" />
     </key>
@@ -57,6 +58,11 @@
       <workItem from="1637137842701" duration="3232000" />
       <workItem from="1637154470166" duration="3277000" />
       <workItem from="1638299208789" duration="2384000" />
+      <workItem from="1638348759855" duration="291000" />
+      <workItem from="1638361950208" duration="2413000" />
+      <workItem from="1638901651621" duration="1738000" />
+      <workItem from="1638903419991" duration="69000" />
+      <workItem from="1638903503782" duration="58000" />
     </task>
     <servers />
   </component>
