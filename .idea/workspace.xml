@@ -13,8 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,19 +32,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js3/Opdrachten/Producten" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Producten" />
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht colorpicker\Styles" />
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht colorpicker\Scripts" />
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht 1" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\css6" />
-      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\css5" />
-      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Producten\Scripts" />
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Paragrafen" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +72,12 @@
       <workItem from="1638903419991" duration="69000" />
       <workItem from="1638903503782" duration="58000" />
       <workItem from="1640008620949" duration="1665000" />
-      <workItem from="1644738426927" duration="589000" />
+      <workItem from="1644738426927" duration="1375000" />
+      <workItem from="1645021719065" duration="5362000" />
+      <workItem from="1645551191325" duration="66000" />
+      <workItem from="1646833774449" duration="558000" />
+      <workItem from="1646834347596" duration="6733000" />
+      <workItem from="1647358193821" duration="1494000" />
     </task>
     <servers />
   </component>
