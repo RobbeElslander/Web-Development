@@ -13,14 +13,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="210DPEnUAUaqqOsC1g8vKSRXPkD" />
   <component name="ProjectViewState">
@@ -32,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js3/Opdrachten/Producten" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js4/Opdrachten" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -43,13 +51,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten" />
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten\Spaties op console" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Producten" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht colorpicker\Styles" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht colorpicker\Scripts" />
-      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht 1" />
-      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\css6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten\Spaties op console\Scripts" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Producten\Scripts" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Paragrafen" />
     </key>
@@ -78,6 +87,8 @@
       <workItem from="1646833774449" duration="558000" />
       <workItem from="1646834347596" duration="6733000" />
       <workItem from="1647358193821" duration="1494000" />
+      <workItem from="1647437596857" duration="3732000" />
+      <workItem from="1647441925228" duration="5334000" />
     </task>
     <servers />
   </component>
