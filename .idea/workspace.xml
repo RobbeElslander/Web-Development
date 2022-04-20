@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,22 +40,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js6/Opdrachten" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js6\Opdrachten" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten\Spaties op console" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Producten" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht colorpicker\Styles" />
-      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht colorpicker\Scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten\Spaties op console\Scripts" />
@@ -92,6 +92,7 @@
       <workItem from="1648041710753" duration="1256000" />
       <workItem from="1648043496589" duration="6219000" />
       <workItem from="1648641290170" duration="240000" />
+      <workItem from="1648644042040" duration="7897000" />
     </task>
     <servers />
   </component>
