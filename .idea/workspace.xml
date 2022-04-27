@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js6/Opdrachten" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js8/Opdrachten/JSON-reverse" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js8\Opdrachten\JSON-reverse" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js6\Opdrachten" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js4\Opdrachten\Spaties op console" />
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Producten" />
-      <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js3\Opdrachten\Opdracht colorpicker\Styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Robbe Elslander\Documents\GitHub\Web-Development\js7" />
@@ -94,7 +94,8 @@
       <workItem from="1648043496589" duration="6219000" />
       <workItem from="1648641290170" duration="240000" />
       <workItem from="1648644042040" duration="7897000" />
-      <workItem from="1650459084901" duration="7441000" />
+      <workItem from="1650459084901" duration="7463000" />
+      <workItem from="1651062293199" duration="5570000" />
     </task>
     <servers />
   </component>
